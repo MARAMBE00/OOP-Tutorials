@@ -1,0 +1,9 @@
+If the array {7} is passed as a parameter to the method loadArray, then the resulting array will be {7}.
+
+If the array {3, 6} is passed as a parameter to the method loadArray, then the resulting array will be {3, 9}.
+
+If the array {4, 6, 8} is passed as a parameter to the method loadArray, then the resulting array will be {4, 10, 18}.
+
+If the array {1, 2, 3, 4} is passed as a parameter to the method loadArray, then the resulting array will be {1, 3, 6, 10}.
+
+If the array {8, 4, 2, 0, 4} is passed as a parameter to the method loadArray, then the resulting array will be {8, 12, 14, 14, 18}.

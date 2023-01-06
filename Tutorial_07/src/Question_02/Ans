@@ -1,0 +1,5 @@
+If the ArrayList {5, 10, 15} is passed as a parameter to the method listDemo, then the resulting output will be [6, 11, 16].
+
+If the ArrayList {8, 2, 8, 7,4} is passed as a parameter to the method listDemo, then the resulting output will be [9, 3, 9, 8, 5].
+
+If the ArrayList {-1, 3, 28, 17, 9, 30} is passed as a parameter to the method listDemo, then the resulting output will be [0, 4, 29, 18, 10, 31].
